@@ -1,0 +1,121 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #333;
+}
+
+header{
+    background-color: #333;
+    color: #fff;
+padding: 1px 0;
+
+}
+
+header h1{
+text-align: center;
+margin: 5px;
+}
+
+nav ul{
+    list-style: none;
+    text-align: center;
+}
+
+ul li{
+    display: inline;
+    margin: 0 15px;
+}
+
+li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.hh {
+    padding: 5px 0;
+}
+
+.div1{
+text-align: center;
+width: 70%;
+margin: 0 auto;
+
+}
+.hh{
+    text-align: center;
+}
+
+.q1 img {
+    width: 70px;
+    margin: 0 auto;
+
+}
+.qq {
+    color: orange;
+    font-weight: 700;
+    text-align: left;
+}
+.div2 {
+    background-color: #e9dddd;
+    padding: 10px;
+    margin: 10px auto;
+    height: 230px;
+    width: 57%;
+    
+
+}
+
+.ee img{
+    margin: 0 auto ;
+    width: 70px;
+    height: 70px;
+    padding:15px;
+}
+
+.bb{
+    text-align: left;
+    color: orange;
+    font-weight: 700;
+}
+
+.ww{
+    background-color: #e9dddd;
+    padding: 10px;
+    margin: 10px auto;
+    height: 230px;
+    width: 40%;
+    
+    
+}
+.h5{
+    text-align: center;
+}
+
+.hh{
+    text-align: center;
+}
+.h3{
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+
+
+footer{
+    background-color: #333;
+    padding: 6px;
+}
+
+.xx{
+    text-align: center;
+    color: #fff;
+}
+
+.oo{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
