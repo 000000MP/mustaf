@@ -56,6 +56,8 @@ margin: 0 auto;
     color: orange;
     font-weight: 700;
     text-align: left;
+    padding: 0 0;
+    margin: 0 auto;
 }
 .div2 {
     background-color: #e9dddd;
@@ -78,6 +80,8 @@ margin: 0 auto;
     text-align: left;
     color: orange;
     font-weight: 700;
+    padding: 0 0;
+    margin: 0 auto;
 }
 
 .ww{
